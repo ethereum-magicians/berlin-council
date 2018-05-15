@@ -4,7 +4,9 @@ title: About
 sidebar_link: true
 ---
 
-The Berlin Council is one of the three Tri-Annual meetings, the other two being coordinated as shoulder events to EthCC in Q1 and Devcon in Q4. While in-person meetings help facilitate discussion, it is the intent of the magicians that decisions get made online so that the broadest number of people can participate.
+The Summer Meeting, which in 2018 takes place in Berlin, is one of the three Tri-Annual meetings, the other two being coordinated as shoulder events to EthCC in Q1 and Devcon in Q4. While in-person meetings help facilitate discussion, it is the intent of the magicians that decisions get made online so that the broadest number of people can participate.
+
+![Fellowship of Ethereum Magicans Sparkle Logomark](../assets/fellowship-logomark.png)
 
 ### About the Fellowship of Ethereum Magicians:
 

@@ -1,8 +1,8 @@
-# Berlin Council July 2018
+# Summer Ethereum Magician's Meeting, Berlin July 2018
 
-Home of the website for the Berlin Council July 2018 gathering: [ethereum-magicians.github.io/berlin-council/](https://ethereum-magicians.github.io/berlin-council/)
+Home of the website for the Summer Ethereum Magician's Meeting, Berlin July 2018: [ethereum-magicians.github.io/berlin-council/](https://ethereum-magicians.github.io/berlin-council/)
 
-Please _do_ share the website broadly, using the tags _#ethmagicians_ and _#berlincouncil2018_
+Please _do_ share the website broadly, use the tag _#ethmagicians_
 
 Please _do_ file issues or pull requests with suggested changes to the website.
 
