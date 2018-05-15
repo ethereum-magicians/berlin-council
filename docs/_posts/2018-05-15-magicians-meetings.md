@@ -2,8 +2,7 @@
 layout: post
 title: Magicians Meetings, Confirming July 14 - 15th at c-base
 excerpt_separator:  <!--more-->
-category:
-link: https://goo.gl/forms/xTYJHOV2R6FQfN4m2
+category: News
 ---
 
 We've heard you loud and clear! [The word "council" has been raising some eyebrows](https://ethereum-magicians.org/t/the-term-council-may-be-easily-misunderstood-by-ourselves-and-the-community/357) as it sounds exclusive and not welcoming.

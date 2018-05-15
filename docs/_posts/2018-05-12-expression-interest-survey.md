@@ -2,7 +2,7 @@
 layout: post
 title: Expression of Interest Survey
 excerpt_separator:  <!--more-->
-category:
+category: News
 link: https://goo.gl/forms/xTYJHOV2R6FQfN4m2
 ---
 
