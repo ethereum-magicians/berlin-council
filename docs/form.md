@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Expression of Interest
-sidebar_link: true
 ---
 
 Please fill out the Expression of Interest form embedded below, or [use the direct link](https://goo.gl/forms/xTYJHOV2R6FQfN4m2).
