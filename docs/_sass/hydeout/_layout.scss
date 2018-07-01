@@ -44,6 +44,7 @@ body {
     font-weight: normal;
     font-size: $large-font-size;
     color: rgba(255,255,255,.75);
+    text-align:center;
     margin-top: 0;
     margin-bottom: $heading-spacing;
 
@@ -115,7 +116,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 3.25rem;
+    font-size: 1.75rem;
     color: $sidebar-title-color;
   }
 
@@ -163,7 +164,8 @@ body {
 
   #sidebar {
     .site-title {
-      font-size: 3.25rem;
+      font-size: 1.75rem;
+      text-align:center;
 
       a { color: $sidebar-title-color; }
       .back-arrow { display: none; }
@@ -184,7 +186,7 @@ body {
   .container {
     background: $body-bg;
     color: $body-color;
-    padding: $section-spacing * 2;
+    padding: $section-spacing;
     height: 100vh;
 
     > header {

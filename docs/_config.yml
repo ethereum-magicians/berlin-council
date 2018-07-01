@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Summer 2018 Eth Magicians Meeting
-tagline:          'Fellowship of Ethereum Magicians Summer Meeting in Berlin 2018'
-description:      '<a href="http://ethereum-magicians.org">Fellowship of Ethereum Magicians</a> gathering in Berlin for technical discussions, July 2018'
+title:            'Summer 2018 Council of Berlin'
+tagline:          'Summer 2018 Council of Berlin - Fellowship of Ethereum Magicians'
+description:      'The Fellowship of Ethereum Magicians will gather in Berlin from July 13-15, 2018 for technical discussions. All are welcome to join us!'
 url:              https://ethereum-magicians.github.io/
 baseurl:          /berlin-council
                   # the optional subpath of your site, e.g. "/blog"
