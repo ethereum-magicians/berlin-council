@@ -71,7 +71,7 @@ body {
 .content {
   background: $body-bg;
   color: $body-color;
-  padding: $section-spacing;
+  //padding: $section-spacing;
 }
 
 
@@ -116,7 +116,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 1.75rem;
+    font-size: 1.50rem;
     color: $sidebar-title-color;
   }
 
@@ -164,7 +164,7 @@ body {
 
   #sidebar {
     .site-title {
-      font-size: 1.75rem;
+      font-size: 1.50rem;
       text-align:center;
 
       a { color: $sidebar-title-color; }

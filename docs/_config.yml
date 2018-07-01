@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            'Summer 2018 Council of Berlin'
 tagline:          'Summer 2018 Council of Berlin - Fellowship of Ethereum Magicians'
-description:      'The Fellowship of Ethereum Magicians will gather in Berlin from July 13-15, 2018 for technical discussions. All are welcome to join us!'
+description:      'The Fellowship of Ethereum Magicians will gather in Berlin from July 13-15, 2018. All are welcome to participate!'
 url:              https://ethereum-magicians.github.io/
 baseurl:          /berlin-council
                   # the optional subpath of your site, e.g. "/blog"

@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-The Council of Berlin is one of the three Tri-Annual in-person meetings of the Fellowship of Ethereum Magicians, the other two are shoulder events to EthCC in Q1 and Devcon in Q4. While in-person meetings facilitate technical discussions, the Magicians intend for decisions to be finalized in the [online forums](https://ethereum-magicians.org) so that the broadest number of people can participate.
+The Council of Berlin is one of the three tri-annual in-person gatherings of the Fellowship of Ethereum Magicians; the other two are shoulder events to EthCC in Q1 and Devcon in Q4. While our in-person meetings facilitate technical discussions, the Magicians intend for decisions to be finalized in the [online forums](https://ethereum-magicians.org) so that the broadest number of people can participate.
 
 ### About the Fellowship of Ethereum Magicians:
 
@@ -18,16 +18,16 @@ _Note: The Fellowship of Ethereum Magicians is not currently a formal organizati
 
 ## Planners & Organizers
 
-Lead Magicians
+Community Organizers
 * Greg Colvin
 * Jamie Pitts
 
 Logistics Support in Berlin
-* [Web3 Foundation](http://web3.foundation), organizing led by Ashley Tyson
+* [Web3 Foundation](http://web3.foundation), led by Ashley Tyson
 
-Volunteers
+Event Volunteers
 * Boris Mann
-
+* Dani Bellavita
 
 ## Resources
 
