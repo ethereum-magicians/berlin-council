@@ -8,7 +8,7 @@ We will be livestreaming much of the proceedings. The livestream is powered by L
 
 Join the main chat [#ethmagicians:matrix.org](https://riot.im/app/#/room/#ethmagicians:matrix.org) for questions
 
-<iframe width="800" height="600" src="https://media.livepeer.org/embed/0x0ddb225031ccb58ff42866f82d907f7766899014/?maxWidth=100%&aspectRatio=16:9"></iframe>
+<iframe width='800' height='600' src='https://media.livepeer.org/embed/0x0ddb225031ccb58ff42866f82d907f7766899014/?maxWidth=100%&aspectRatio=16:9'></iframe>
 
 ## Agenda
 
