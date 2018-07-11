@@ -6,9 +6,11 @@ sidebar_link: true
 
 ## July 13 Friday
 
-Informal gathering at a local beer garden. _Location will be announced here._
+Informal gathering Prater Beer Garden, Kastanienallee 7-9 - [Google Maps](https://goo.gl/maps/RzVGnkm6P4K2). Hosted by [Boris @bmann](https://twitter.com/bmann), come join 6pm onwards.
 
 ---
+
+For both Saturday and Sunday, start time is 10am at c-base - [Google Maps](https://goo.gl/maps/PrHfPc9Pk2t).
 
 ## July 14 Saturday - All Magicians
 
@@ -27,7 +29,7 @@ _Evening_
 _General community topics_
 
 - On the problem of wealth distribution, Lane Rettig
-- **[Add yourself](https://ethereum-magicians.org/t/wiki-proposed-agenda-for-the-council-of-berlin-set-for-july-14-15-updated/377)** 
+- **[Add yourself](https://ethereum-magicians.org/t/wiki-proposed-agenda-for-the-council-of-berlin-set-for-july-14-15-updated/377)**
 
 _Introducing working group topics / announcing working groups_
 
@@ -54,6 +56,8 @@ Dinners are not covered, but we will organize some group activities that people 
 
 - July 13th Friday: German beer garden
 - July 15th Sunday: Wrap up dinner, potential group order to the backyard of c-base
+
+The c-base space is an open space
 
 ## July 16-18 - "Side-chains encouraged"
 
